@@ -14,10 +14,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('welcome');
 });
 Route::get('/body', function () {
     return view('body');
+});
+Route::get('/header', function () {
+    return view('header');
+});
+Route::get('/sample', function () {
+    return view('sample');
 });
 Route::get('/cardview', function () {
     return view('card');
