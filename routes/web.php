@@ -16,18 +16,14 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/body', function () {
-    return view('body');
+Route::get('/home', function () {
+    return view('home');
 });
-Route::get('/header', function () {
-    return view('header');
+Route::get('/', function () {
+    return view('index');
 });
-Route::get('/sample', function () {
-    return view('sample');
-});
-Route::get('/cardview', function () {
-    return view('card');
-});
-Route::get('/card', function () {
-    return view('cardview');
-});
+//Route::get('/',[App\Http\Controllers\HomeController::class,'index']);
+Route::get('/book-a-demo',[App\Http\Controllers\HomeController::class,'index']);
+ Route::get('/about',[App\Http\Controllers\HomeController::class,'about']);
+ Route::get('/plans',[App\Http\Controllers\HomeController::class,'plans']);
+ Route::get('/solutions',[App\Http\Controllers\HomeController::class,'solution']);

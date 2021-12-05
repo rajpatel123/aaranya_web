@@ -1,0 +1,25 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="82.197762mm" height="102.09586mm" viewBox="0 0 82.197762 102.09586" version="1.1" id="svg17178" inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="multipage-export-h_wkhlm1.svg">
+  <defs id="defs17172">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath21386">
+      <rect style="opacity:1;fill:#d1ebdc;fill-opacity:0.933333;stroke-width:0" id="rect21388" width="396.42004" height="97.073524" x="1384.6058" y="-399.93881" transform="scale(-1,1)"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.24812419" inkscape:cx="913.96537" inkscape:cy="-239.884" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1113" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="0"/>
+  <metadata id="metadata17175">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-255.52362,-0.93354377)">
+    <g id="box 3" transform="translate(124.71346,107.59607)" inkscape:export-filename="C:\work\misc work\Aaranya\website\drawings\website exports for dev\other pages update\assets other pages\book a demo\book a demo.png" inkscape:export-xdpi="58.939999" inkscape:export-ydpi="58.939999">
+      <g id="g1317-9" transform="matrix(0.97952976,0,0,1.1300559,10.276453,164.78076)">
+        <rect style="display:inline;fill:#42a082;fill-opacity:1;stroke-width:0.657597;paint-order:markers fill stroke" id="rect1315-6" width="83.915535" height="90.345848" x="-206.96815" y="-240.20341" transform="scale(-1,1)"/>
+      </g>
+      <path id="path2488-4" style="fill:#55bd9c;fill-opacity:1;stroke:none;stroke-width:5.998;stroke-opacity:1;paint-order:markers fill stroke" d="m 203.15601,-106.66252 c -4.77002,9.405777 -4.95906,14.615688 0,16.601571 4.95906,-1.985883 4.77001,-7.195794 0,-16.601571 z m 0,18.272282 c 0,0 -2.00576,1.370462 -3.15744,1.676374 -5.71026,1.516803 -16.96661,0.847566 -19.56675,0.666644 -0.46392,0.16674 -0.38711,0.328797 -0.20154,0.738955 1.51461,3.266969 8.06564,15.718498 20.14451,16.262587 1.01626,0.04577 1.93905,-0.01773 2.78122,-0.169518 0.84217,0.151686 1.76495,0.215291 2.78122,0.169518 2.60479,-0.117342 4.95154,-0.789701 7.04712,-1.803003 v -14.997006 c -2.47983,-0.126259 -4.85624,-0.386001 -6.67144,-0.868177 -1.15168,-0.305912 -3.1569,-1.676374 -3.1569,-1.676374 z"/>
+    </g>
+  </g>
+</svg>

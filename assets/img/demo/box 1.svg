@@ -1,0 +1,26 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="81.980774mm" height="103.65093mm" viewBox="0 0 81.980774 103.65093" version="1.1" id="svg17178" inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="multipage-export-h_wkhlm1.svg">
+  <defs id="defs17172">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath21386">
+      <rect style="opacity:1;fill:#d1ebdc;fill-opacity:0.933333;stroke-width:0" id="rect21388" width="396.42004" height="97.073524" x="1384.6058" y="-399.93881" transform="scale(-1,1)"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.24812419" inkscape:cx="913.96537" inkscape:cy="-239.884" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:document-rotation="0" showgrid="false" inkscape:window-width="1113" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="0"/>
+  <metadata id="metadata17175">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-257.14356,116.89405)">
+    <g id="box 1" transform="translate(133.12356,122.34197)" inkscape:export-filename="C:\work\misc work\Aaranya\website\drawings\website exports for dev\other pages update\assets other pages\book a demo\book a demo.png" inkscape:export-xdpi="58.939999" inkscape:export-ydpi="58.939999">
+      <rect style="display:inline;fill:#42a082;fill-opacity:1;stroke-width:0.696189;paint-order:markers fill stroke" id="rect1121-8" width="81.980766" height="103.65093" x="-206.00076" y="-239.23602" transform="scale(-1,1)"/>
+      <path id="rect2392" clip-path="none" style="display:inline;fill:#55bd9c;fill-opacity:1;stroke-width:2.48541;paint-order:markers fill stroke" d="m 1265.2132,1444.1023 c -12.1904,15.5623 -18.8164,34.7744 -18.8167,54.559 -5e-4,48.7995 39.4737,88.3596 88.1681,88.3602 15.1871,0 30.1167,-3.9313 43.3421,-11.4131 v -131.5061 z" transform="matrix(0.26458333,0,0,0.26458333,-158.57037,-621.32141)" sodipodi:nodetypes="cssccc"/>
+      <path style="fill:#eac86e;fill-opacity:1;stroke:#55bd9c;stroke-width:4.0987;stroke-opacity:1;paint-order:markers fill stroke" d="m 163.21307,-213.53148 -28.5929,16.50812" id="path2398"/>
+      <path style="fill:#eac86e;fill-opacity:1;stroke:#55bd9c;stroke-width:4.0987;stroke-opacity:1;paint-order:markers fill stroke" d="m 168.299,-205.53927 -29.5469,29.5469" id="path2400"/>
+      <path style="fill:#eac86e;fill-opacity:1;stroke:#55bd9c;stroke-width:4.0987;stroke-opacity:1;paint-order:markers fill stroke" d="m 177.98651,-199.72677 -14.9026,25.81208" id="path2402"/>
+    </g>
+  </g>
+</svg>
