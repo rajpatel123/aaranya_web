@@ -23,8 +23,12 @@ Route::get('/', function () {
     return view('index');
 });
 //Route::get('/',[App\Http\Controllers\HomeController::class,'index']);
-Route::get('/book-a-demo',[App\Http\Controllers\HomeController::class,'index']);
- Route::get('/about',[App\Http\Controllers\HomeController::class,'about']);
- Route::get('/plans',[App\Http\Controllers\HomeController::class,'plans']);
- Route::get('/solutions',[App\Http\Controllers\HomeController::class,'solution']);
- Route::post('/chnagemodevalue',[App\Http\Controllers\HomeController::class,'changemode']);
+Route::get('/book-a-demo', [App\Http\Controllers\HomeController::class, 'index']);
+Route::get('/about', [App\Http\Controllers\HomeController::class, 'about']);
+Route::get('/plans', [App\Http\Controllers\HomeController::class, 'plans']);
+Route::get('/solutions', [App\Http\Controllers\HomeController::class, 'solution']);
+Route::post('/chnagemodevalue', [App\Http\Controllers\HomeController::class, 'changemode']);
+
+//Set Dark Mode
+Route::post('/set-dark-mode', [App\Http\Controllers\HomeController::class, 'setDarkMode'])->name('darkmode.set');
+Route::post('/reset-dark-mode', [App\Http\Controllers\HomeController::class, 'resetDarkMode'])->name('darkmode.unset');
