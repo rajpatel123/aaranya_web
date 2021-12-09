@@ -27,3 +27,4 @@ Route::get('/book-a-demo',[App\Http\Controllers\HomeController::class,'index']);
  Route::get('/about',[App\Http\Controllers\HomeController::class,'about']);
  Route::get('/plans',[App\Http\Controllers\HomeController::class,'plans']);
  Route::get('/solutions',[App\Http\Controllers\HomeController::class,'solution']);
+ Route::post('/chnagemodevalue',[App\Http\Controllers\HomeController::class,'changemode']);

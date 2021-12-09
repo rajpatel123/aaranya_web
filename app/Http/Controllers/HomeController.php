@@ -7,28 +7,31 @@ use App\Http\Requests;
 
 class HomeController extends Controller
 {
-   public function index(){
+   public function index()
+   {
 
-return view('book-a-demo');
+         return view('book-a-demo');
 
     }
-    public function about(){
+    public function about()
+    {
 
         return view('about');
         
-            }
+    }
             
-            public function plans(){
+    public function plans()
+    {
 
-                return view('plans');
-                
-                    }
+    return view('plans');             
+    }
                     
-                    public function solution(){
-
-                        return view('solutions');
+    public function solution()
+    {
+   return view('solutions');
                         
-                            }
- 
+    }
+    
+
 }
 
