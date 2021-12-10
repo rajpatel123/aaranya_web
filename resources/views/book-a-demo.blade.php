@@ -45,15 +45,16 @@
     <div class="container">
       <div class="header justify-content-between d-flex">
         <div class="logo">
-          <a href="index.html"><img src="assets/img/arnya/aaranya-logo.svg" /></a>
+          <a href="{{ URL::to('/') }}"><img src="assets/img/arnya/aaranya-logo.svg" /></a>
+          <!-- <a href="index.html"><img src="assets/img/arnya/aaranya-logo.svg" /></a> -->
           <a class="top-btn-hover" href="#">For Business</a>
         </div>
         <nav class=" nav-menu d-none d-lg-block">
           <ul>
-            <li class="hover-btn-header hover1"><a href="{{('/book-a-demo')}}">Get A Demo</a></li>
+            <li class="hover-btn-header hover1"><a href="{{url('/book-a-demo')}}">Get A Demo</a></li>
             <li><a href="{{url('/solutions')}}">Solutions</a></li>
             <li><a href="{{url('/plans')}}">Plans</a></li>
-            <li><a href="{{('/about')}}">About Us</a></li>
+            <li><a href="{{url('/about')}}">About Us</a></li>
             <li class="drop-down"><img style="width:25px; margin-top: 6px;" src="assets/img/arnya/settings-icon.svg" />
               <ul>
                 <li><button class="light-nave">Light Mode</button></li>
