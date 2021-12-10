@@ -921,7 +921,7 @@ text-align: center;
 solution page Dark mode
 =============================================================== */
 .dark-solution .bg-light-gray{background: #40473a !important;}
-.dark-solution .nav-menu a, .dark-solution .top-btn-hover{color: #54a191;}
+.dark-solution .nav-menu a, .dark-solution .top-btn-hover{color: #fcc954;}
 .dark-solution .bg-green-light{background: #aedcc1 !important;}
 .dark-solution .bg-green-medium{background: #39695e !important;}
 .dark-solution .bg-green-dark{background: #1c2d2b !important;}
