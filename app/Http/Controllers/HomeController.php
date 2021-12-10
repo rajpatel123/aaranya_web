@@ -11,24 +11,25 @@ class HomeController extends Controller
 {
     public function index()
     {
-
-        return view('book-a-demo');
+        $data['title'] = 'Book Demo';
+        return view('book-a-demo')->with('data', $data);
     }
     public function about()
     {
-
-        return view('about');
+        $data['title'] = 'About';
+        return view('about')->with('data', $data);
     }
 
     public function plans()
     {
-
-        return view('plans');
+        $data['title'] = 'Plans';
+        return view('plans')->with('data', $data);
     }
 
     public function solution()
     {
-        return view('solutions');
+        $data['title'] = 'Solutions';
+        return view('solutions')->with('data', $data);
     }
 
     public function setDarkMode(Request $request)
