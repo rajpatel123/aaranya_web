@@ -177,28 +177,28 @@
           </div>
           <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12" style="">
             <div class="inner request-form">
-              <form action="">
+              <form action="{{ url('/send-mail') }}" method="POST">
+              @csrf
+                <div class="form-wrapper">
+                  <input name="first_name" type="text" class="form-control2" placeholder="First Name*" required>
+                </div>
+                <div class="form-wrapper">
+                  <input name="last_name" type="text" class="form-control2" placeholder="Last Name*" required>
+                </div>
+                <div class="form-wrapper">
+                  <input name="email" type="email" class="form-control2" placeholder="Work Email*" required>
+                </div>
+                <div class="form-wrapper">
+                  <input name="mobile" type="number" class="form-control2" placeholder="Phone Number">
+                </div>
+                <div class="form-wrapper">
+                  <input name="company_name" type="text" class="form-control2" placeholder="Company Name*" required>
+                </div>
+                <div class="form-wrapper">
+                  <input name="company_size" type="text" class="form-control2" placeholder="Company Size*" required>
+                </div>
 
-                <div class="form-wrapper">
-                  <input type="text" class="form-control2" placeholder="First Name*">
-                </div>
-                <div class="form-wrapper">
-                  <input type="text" class="form-control2" placeholder="Last Name*">
-                </div>
-                <div class="form-wrapper">
-                  <input type="email" class="form-control2" placeholder="Work Email*">
-                </div>
-                <div class="form-wrapper">
-                  <input type="number" class="form-control2" placeholder="Phone Number">
-                </div>
-                <div class="form-wrapper">
-                  <input type="text" class="form-control2" placeholder="Company Name*">
-                </div>
-                <div class="form-wrapper">
-                  <input type="text" class="form-control2" placeholder="Company Size*">
-                </div>
-
-                <center> <button>REQUEST A DEMO</button></center>
+                <center> <button type="submit">REQUEST A DEMO</button></center>
 
                 <div class="forn-desc">
                   <p>We will give you a call</p>
